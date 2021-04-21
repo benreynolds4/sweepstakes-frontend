@@ -1,0 +1,98 @@
+[
+    {
+        "group":"group_1",
+        "players": ["Dustin Johnson", "Bryson DeChambeau", "Justin Thomas","Jon Rahm"
+            ,"Jordan Spieth"
+            ,"Brooks Koepka"
+            ,"Rory McIlroy"
+            ,"Xander Schauffele"
+            ,"Collin Morikawa"
+            ,"Patrick Cantlay"
+            ,"Patrick Reed"
+            ,"Viktor Hovland"
+            ,"Tony Finau"
+            ,"Tyrrell Hatton"]
+    }, 
+    {
+        "group":"group_2",
+        "players": ["Lee Westwood",
+        "Daniel Berger",
+        "Hideki Matsuyama",
+        "Sungjae Im",
+        "Cameron Smith",
+        "Webb Simpson",
+        "Sergio Garcia",
+        "Matthew Fitzpatrick",
+        "Jason Day",
+        "Paul Casey",
+        "Joaquin Niemann",
+        "Bubba Watson",
+        "Adam Scott",
+        "Justin Rose"]
+    }, 
+    {
+        "group":"group_3",
+        "players": ["Tommy Fleetwood",
+        "Shane Lowry",
+        "Harris English",
+        "Scottie Scheffler",
+        "Matthew Wolff",
+        "Francesco Molinari",
+        "Max Homa",
+        "Will Zalatoris",
+        "Abraham Ancer",
+        "Louis Oosthuizen",
+        "Cameron Champ",
+        "Corey Conners",
+        "Gary Woodland",
+        "Brian Harman",
+        "Victor Perez"]
+    }, 
+    {
+        "group":"group_4",
+        "players": ["Phil Mickelson",
+        "Robert MacIntyre",
+        "Jason Kokrak",
+        "Christiaan Bezuidenhout",
+        "Si Woo Kim",
+        "Danny Willett",
+        "Carlos Ortiz",
+        "Kevin Kisner",
+        "Dylan Frittelli",
+        "Marc Leishman",
+        "Matt Kuchar",
+        "Matt Jones",
+        "Henrik Stenson",
+        "Matt Wallace"]
+    },
+    {
+        "group":"group_5",
+        "players": ["Sebastian Munoz",
+        "Ian Poulter",
+        "Lanto Griffin",
+        "Zach Johnson",
+        "Ryan Palmer",
+        "Victor Perez",
+        "Billy Horschel",
+        "Brendon Todd",
+        "Bernd Wiesberger",
+        "Kevin Na",
+        "Hudson Swafford",
+        "Michael Thompson",
+        "Martin Laird",
+        "Mackenzie Hughes",
+        "Jimmy Walker",
+        "Chez Reavie",
+        "Charl Schwartzel",
+        "Brian Gay",
+        "Jim Herman",
+        "Bernhard Langer",
+        "Fred Couples",
+        "Vijay Singh",
+        "Mike Weir",
+        "Jose Maria Olazabal",
+        "Sandy Lyle",
+        "Larry Mize",
+        "C.T. Pan"]
+    }
+]

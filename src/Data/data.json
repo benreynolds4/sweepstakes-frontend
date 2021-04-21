@@ -1,0 +1,3881 @@
+[
+  {
+    "Name": "Conor Nolan",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "Conor Nolan"
+  },
+  {
+    "Name": "Valerie Keating",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Lee Westwood",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Ian Poulter",
+    "Initials": "Valderama"
+  },
+  {
+    "Name": "Gary Keating",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Billy Horschel",
+    "Initials": "GK2121"
+  },
+  {
+    "Name": "Jonathan Butterly",
+    "group_1": "Xander Schauffele",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "JonoButterly"
+  },
+  {
+    "Name": "Colm Burke",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Kevin Na",
+    "Initials": "Colm Burke"
+  },
+  {
+    "Name": "Robert Carr",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Daniel Berger",
+    "group_3": "Matthew Wolff",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ian Poulter",
+    "Initials": "Macca69"
+  },
+  {
+    "Name": "Tom Nolan",
+    "group_1": "Justin Thomas",
+    "group_2": "Jason Day",
+    "group_3": "Francesco Molinari",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Tom Nolan"
+  },
+  {
+    "Name": "John Butler",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Carrick Smasher"
+  },
+  {
+    "Name": "Brendan Fenerty",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Danny Willett",
+    "group_5": "Brendon Todd",
+    "Initials": "Fenners"
+  },
+  {
+    "Name": "Stuart Grehan",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Will Zalatoris",
+    "group_4": "Jason Kokrak",
+    "group_5": "Kevin Na",
+    "Initials": "Rico"
+  },
+  {
+    "Name": "Carla Reynolds",
+    "group_1": "Justin Thomas",
+    "group_2": "Joaquin Niemann",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Ryan Palmer",
+    "Initials": "CarlaR"
+  },
+  {
+    "Name": "Sean Judge",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Lee Westwood",
+    "group_3": "Matthew Wolff",
+    "group_4": "Matt Wallace",
+    "group_5": "Zach Johnson",
+    "Initials": "Sean J"
+  },
+  {
+    "Name": "Derry Gray",
+    "group_1": "Justin Thomas",
+    "group_2": "Joaquin Niemann",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Ian Poulter",
+    "Initials": "DG0203"
+  },
+  {
+    "Name": "Michael Nolan",
+    "group_1": "Collin Morikawa",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Billy Horschel",
+    "Initials": "DG Nolan"
+  },
+  {
+    "Name": "Johnny Morrison",
+    "group_1": "Tony Finau",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Johnny Morrison"
+  },
+  {
+    "Name": "Lynn Crumley",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "Juniorjce"
+  },
+  {
+    "Name": "Tina McGrath",
+    "group_1": "Xander Schauffele",
+    "group_2": "Sergio Garcia",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Billy Horschel",
+    "Initials": "Tina"
+  },
+  {
+    "Name": "Jack Gould",
+    "group_1": "Collin Morikawa",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Cameron Champ",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Jack Gould"
+  },
+  {
+    "Name": "Hugh Gray",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Will Zalatoris",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Lanto Griffin",
+    "Initials": "Hugh Gray"
+  },
+  {
+    "Name": "Mike Finn",
+    "group_1": "Tony Finau",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "MF8787"
+  },
+  {
+    "Name": "Dan Reynolds",
+    "group_1": "Dustin Johnson",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Wallace",
+    "group_5": "Sebastian Munoz",
+    "Initials": "DR 7890"
+  },
+  {
+    "Name": "Keith Boyle",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Jason Day",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Wallace",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "Kb1993"
+  },
+  {
+    "Name": "Dylan Keating",
+    "group_1": "Jordan Spieth",
+    "group_2": "Adam Scott",
+    "group_3": "Will Zalatoris",
+    "group_4": "Danny Willett",
+    "group_5": "Ian Poulter",
+    "Initials": "Dyl"
+  },
+  {
+    "Name": "Jack Cantillon",
+    "group_1": "Jon Rahm",
+    "group_2": "Lee Westwood",
+    "group_3": "Cameron Champ",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Bernhard Langer",
+    "Initials": "Cantillon’s Cavalry"
+  },
+  {
+    "Name": "Darren Bohill",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "Darren Bohill"
+  },
+  {
+    "Name": "Lily Cantillon",
+    "group_1": "Tony Finau",
+    "group_2": "Daniel Berger",
+    "group_3": "Corey Conners",
+    "group_4": "Danny Willett",
+    "group_5": "Kevin Na",
+    "Initials": "Lily Cantillon"
+  },
+  {
+    "Name": "Cormac McCabe",
+    "group_1": "Xander Schauffele",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Ian Poulter",
+    "Initials": "Mcccor"
+  },
+  {
+    "Name": "Ben Reynolds",
+    "group_1": "Jordan Spieth",
+    "group_2": "Bubba Watson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "Ben Reynolds"
+  },
+  {
+    "Name": "Andrew Mackey",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Brian Harman",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Zach Johnson",
+    "Initials": "AM2424"
+  },
+  {
+    "Name": "Colm Berkery",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Mackenzie Hughes",
+    "Initials": "CB"
+  },
+  {
+    "Name": "Bowe",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Phil Mickelson",
+    "group_5": "Zach Johnson",
+    "Initials": "Bowe"
+  },
+  {
+    "Name": "Colm Power",
+    "group_1": "Dustin Johnson",
+    "group_2": "Paul Casey",
+    "group_3": "Abraham Ancer",
+    "group_4": "Matt Kuchar",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Colm Power"
+  },
+  {
+    "Name": "Joe Nolan",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Joe Nolan 7"
+  },
+  {
+    "Name": "Jim Nolan",
+    "group_1": "Collin Morikawa",
+    "group_2": "Paul Casey",
+    "group_3": "Brian Harman",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Jim Nolan"
+  },
+  {
+    "Name": "Jamie King",
+    "group_1": "Jordan Spieth",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Jamie King"
+  },
+  {
+    "Name": "Harry Tector",
+    "group_1": "Dustin Johnson",
+    "group_2": "Joaquin Niemann",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Kevin Kisner",
+    "group_5": "Ian Poulter",
+    "Initials": "The Sultan of Swing"
+  },
+  {
+    "Name": "Cian Hoban",
+    "group_1": "Dustin Johnson",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ian Poulter",
+    "Initials": "Cian H"
+  },
+  {
+    "Name": "Jack McSharry",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Henrik Stenson",
+    "group_5": "Billy Horschel",
+    "Initials": "JMS1234"
+  },
+  {
+    "Name": "Orlaith Rice",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Phil Mickelson",
+    "group_5": "Sebastian Munoz",
+    "Initials": "OR0504"
+  },
+  {
+    "Name": "Kevin Cooney",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sergio Garcia",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Kevin Cooney"
+  },
+  {
+    "Name": "Martina Nolan",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Marc Leishman",
+    "group_5": "Billy Horschel",
+    "Initials": "Martina N"
+  },
+  {
+    "Name": "Róisín Flanagan",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Joaquin Niemann",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "Róisín Flanagan"
+  },
+  {
+    "Name": "Gavin Cunningham",
+    "group_1": "Rory McIlroy",
+    "group_2": "Sergio Garcia",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Henrik Stenson",
+    "group_5": "Mackenzie Hughes",
+    "Initials": "Gav C"
+  },
+  {
+    "Name": "Nick Smith",
+    "group_1": "Jordan Spieth",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Max Homa",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Mr. McCutcheon"
+  },
+  {
+    "Name": "Alan Connor",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Alan Connor"
+  },
+  {
+    "Name": "Colm kelly",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Phil Mickelson",
+    "group_5": "Billy Horschel",
+    "Initials": "CK1964"
+  },
+  {
+    "Name": "Peter Burke",
+    "group_1": "Justin Thomas",
+    "group_2": "Jason Day",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "Peter Burke"
+  },
+  {
+    "Name": "Tim Tector",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Matthew Wolff",
+    "group_4": "Kevin Kisner",
+    "group_5": "Kevin Na",
+    "Initials": "Tim Tector"
+  },
+  {
+    "Name": "Ronan Mallon",
+    "group_1": "Justin Thomas",
+    "group_2": "Justin Rose",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "RM1975"
+  },
+  {
+    "Name": "Siobhan Moore",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "SM1979"
+  },
+  {
+    "Name": "John McEneaney",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Will Zalatoris",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "John McEneaney"
+  },
+  {
+    "Name": "Alex McDermott",
+    "group_1": "Collin Morikawa",
+    "group_2": "Sergio Garcia",
+    "group_3": "Matthew Wolff",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Alex McD"
+  },
+  {
+    "Name": "Jordan kochanski",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Matthew Wolff",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "Jordan"
+  },
+  {
+    "Name": "Orla Briscoe",
+    "group_1": "Justin Thomas",
+    "group_2": "Justin Rose",
+    "group_3": "Shane Lowry",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Kevin Na",
+    "Initials": "ÓB8766"
+  },
+  {
+    "Name": "Darragh McCann",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Darragh McCann"
+  },
+  {
+    "Name": "Joe Morrissey",
+    "group_1": "Collin Morikawa",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Joe Morrissey"
+  },
+  {
+    "Name": "Sean Galligan",
+    "group_1": "Jon Rahm",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Sebastian Munoz",
+    "Initials": "SG1703"
+  },
+  {
+    "Name": "Kieron",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Kieron Kelly"
+  },
+  {
+    "Name": "Philip Galligan",
+    "group_1": "Justin Thomas",
+    "group_2": "Webb Simpson",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Philip Galligan"
+  },
+  {
+    "Name": "Larry Murtagh",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Will Zalatoris",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Larry Murtagh"
+  },
+  {
+    "Name": "Marc O'Connor",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Abraham Ancer",
+    "group_4": "Jason Kokrak",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Marc O'Connor"
+  },
+  {
+    "Name": "Ceire Nolan",
+    "group_1": "Dustin Johnson",
+    "group_2": "Sungjae Im",
+    "group_3": "Francesco Molinari",
+    "group_4": "Henrik Stenson",
+    "group_5": "Zach Johnson",
+    "Initials": "Ceire Nolan"
+  },
+  {
+    "Name": "Joe Joyce",
+    "group_1": "Jon Rahm",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "JJ5748"
+  },
+  {
+    "Name": "Benjamin Doggett",
+    "group_1": "Jon Rahm",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Billy Horschel",
+    "Initials": "Benjamin Doggett"
+  },
+  {
+    "Name": "Cathal Hurley",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Marc Leishman",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Cathal Hurley"
+  },
+  {
+    "Name": "Shane Boyle",
+    "group_1": "Jon Rahm",
+    "group_2": "Cameron Smith",
+    "group_3": "Shane Lowry",
+    "group_4": "Kevin Kisner",
+    "group_5": "Sebastian Munoz",
+    "Initials": "StableMateeee"
+  },
+  {
+    "Name": "Sean Hussey",
+    "group_1": "Justin Thomas",
+    "group_2": "Sergio Garcia",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Huss"
+  },
+  {
+    "Name": "Jack Phelan",
+    "group_1": "Jon Rahm",
+    "group_2": "Daniel Berger",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Carlos Ortiz",
+    "group_5": "Jose Maria Olazabal",
+    "Initials": "Jack Phelan"
+  },
+  {
+    "Name": "Ross Nally",
+    "group_1": "Dustin Johnson",
+    "group_2": "Paul Casey",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Kevin Kisner",
+    "group_5": "Zach Johnson",
+    "Initials": "Ross Nally"
+  },
+  {
+    "Name": "Craig Doolan",
+    "group_1": "Dustin Johnson",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Matthew Wolff",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Craig Doolan"
+  },
+  {
+    "Name": "Rory Allwright",
+    "group_1": "Collin Morikawa",
+    "group_2": "Jason Day",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Ra"
+  },
+  {
+    "Name": "Jack Tector",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Shane Lowry",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Zach Johnson",
+    "Initials": "Jack Tector"
+  },
+  {
+    "Name": "Alex Dunne",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sungjae Im",
+    "group_3": "Abraham Ancer",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Alex Dunne"
+  },
+  {
+    "Name": "Josh murtagh",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Will Zalatoris",
+    "group_4": "Matt Wallace",
+    "group_5": "Zach Johnson",
+    "Initials": "Josh murtagh"
+  },
+  {
+    "Name": "Thomas Flanagan",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "Tom Flan Jnr"
+  },
+  {
+    "Name": "Jake Moore",
+    "group_1": "Jon Rahm",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "Mooremonster24"
+  },
+  {
+    "Name": "Robbie Skuse",
+    "group_1": "Justin Thomas",
+    "group_2": "Sergio Garcia",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Robbie"
+  },
+  {
+    "Name": "Séamus Quigley",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Shane Lowry",
+    "group_4": "Marc Leishman",
+    "group_5": "Billy Horschel",
+    "Initials": "Séamus"
+  },
+  {
+    "Name": "Scott Flanagan",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ryan Palmer",
+    "Initials": "Flantees"
+  },
+  {
+    "Name": "Gavin Farrell",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Max Homa",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Gav"
+  },
+  {
+    "Name": "Andrew Blair White",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sergio Garcia",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Andrew Blair White"
+  },
+  {
+    "Name": "Niall Clarke",
+    "group_1": "Rory McIlroy",
+    "group_2": "Cameron Smith",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Wallace",
+    "group_5": "Ian Poulter",
+    "Initials": "Niall Clarke"
+  },
+  {
+    "Name": "Niall Quinn",
+    "group_1": "Justin Thomas",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Niall Quinn"
+  },
+  {
+    "Name": "Cian O’Sullivan",
+    "group_1": "Justin Thomas",
+    "group_2": "Webb Simpson",
+    "group_3": "Matthew Wolff",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "CDOS21"
+  },
+  {
+    "Name": "James Featherstone",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Sungjae Im",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ryan Palmer",
+    "Initials": "James Featherstone"
+  },
+  {
+    "Name": "Luke Keena",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Abraham Ancer",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Luke Keena"
+  },
+  {
+    "Name": "Ben Collins",
+    "group_1": "Patrick Reed",
+    "group_2": "Jason Day",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Kevin Na",
+    "Initials": "Ben Collins98"
+  },
+  {
+    "Name": "Luke Tynan",
+    "group_1": "Jon Rahm",
+    "group_2": "Daniel Berger",
+    "group_3": "Max Homa",
+    "group_4": "Matt Wallace",
+    "group_5": "Kevin Na",
+    "Initials": "Luke Tynan"
+  },
+  {
+    "Name": "Niall McDonald",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Phil Mickelson",
+    "group_5": "Zach Johnson",
+    "Initials": "Niall McDonald"
+  },
+  {
+    "Name": "David O’Halloran",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Danny Willett",
+    "group_5": "Billy Horschel",
+    "Initials": "DOH1409"
+  },
+  {
+    "Name": "Dean Crowley",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Danny Willett",
+    "group_5": "Ian Poulter",
+    "Initials": "Dean Crowley"
+  },
+  {
+    "Name": "Niall worth",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "NW1993"
+  },
+  {
+    "Name": "Shay McGonigle",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sungjae Im",
+    "group_3": "Shane Lowry",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Ian Poulter",
+    "Initials": "Shay McGonigle"
+  },
+  {
+    "Name": "John McCabe",
+    "group_1": "Xander Schauffele",
+    "group_2": "Cameron Smith",
+    "group_3": "Victor Perez",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Lanto Griffin",
+    "Initials": "John McCabe"
+  },
+  {
+    "Name": "Tom bozzard",
+    "group_1": "Jon Rahm",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Tom Bozzard"
+  },
+  {
+    "Name": "James O'Connell",
+    "group_1": "Collin Morikawa",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "James O'Connell"
+  },
+  {
+    "Name": "Karl Mc Donnell",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Max Homa",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Monty"
+  },
+  {
+    "Name": "Frank Winters",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Daniel Berger",
+    "group_3": "Cameron Champ",
+    "group_4": "Marc Leishman",
+    "group_5": "Billy Horschel",
+    "Initials": "Frankie"
+  },
+  {
+    "Name": "Mark cluskey",
+    "group_1": "Rory McIlroy",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Wallace",
+    "group_5": "Ian Poulter",
+    "Initials": "Mark Cluskey"
+  },
+  {
+    "Name": "Barry farrell",
+    "group_1": "Xander Schauffele",
+    "group_2": "Daniel Berger",
+    "group_3": "Abraham Ancer",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Barry farrell"
+  },
+  {
+    "Name": "Pius Jameson",
+    "group_1": "Dustin Johnson",
+    "group_2": "Paul Casey",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Pius Jameson"
+  },
+  {
+    "Name": "Reshenda Farrell",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Webb Simpson",
+    "group_3": "Brian Harman",
+    "group_4": "Matt Kuchar",
+    "group_5": "Brendon Todd",
+    "Initials": "Reshenda Farrell"
+  },
+  {
+    "Name": "Sean Delaney",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Kevin Kisner",
+    "group_5": "Billy Horschel",
+    "Initials": "Sean Delaney"
+  },
+  {
+    "Name": "Isabelle Winters",
+    "group_1": "Patrick Reed",
+    "group_2": "Bubba Watson",
+    "group_3": "Shane Lowry",
+    "group_4": "Danny Willett",
+    "group_5": "Ian Poulter",
+    "Initials": "Bella"
+  },
+  {
+    "Name": "Keith Power",
+    "group_1": "Collin Morikawa",
+    "group_2": "Paul Casey",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Billy Horschel",
+    "Initials": "Keith Power"
+  },
+  {
+    "Name": "Conor McGowan",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "McGowan’s money"
+  },
+  {
+    "Name": "Paddy Winters",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "PW"
+  },
+  {
+    "Name": "Conor stephens",
+    "group_1": "Justin Thomas",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Victor Perez",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Conor stephens"
+  },
+  {
+    "Name": "Niall McCabe",
+    "group_1": "Dustin Johnson",
+    "group_2": "Justin Rose",
+    "group_3": "Corey Conners",
+    "group_4": "Marc Leishman",
+    "group_5": "Charl Schwartzel",
+    "Initials": "Niall McCabe"
+  },
+  {
+    "Name": "Cillian Curran",
+    "group_1": "Jordan Spieth",
+    "group_2": "Webb Simpson",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "Cillian Curran"
+  },
+  {
+    "Name": "Simon Kerrigan",
+    "group_1": "Xander Schauffele",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Jason Kokrak",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Simon Kerrigan"
+  },
+  {
+    "Name": "Eoin Clancy",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Jason Kokrak",
+    "group_5": "Kevin Na",
+    "Initials": "Eoin Clancy"
+  },
+  {
+    "Name": "Ross Berkery",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Billy Horschel",
+    "Initials": "Ross Berkery"
+  },
+  {
+    "Name": "David mcardle",
+    "group_1": "Jon Rahm",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Jones",
+    "group_5": "Billy Horschel",
+    "Initials": "DMA1976"
+  },
+  {
+    "Name": "Matthew Currie",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ian Poulter",
+    "Initials": "Matthew C"
+  },
+  {
+    "Name": "David Finn",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Sergio Garcia",
+    "group_3": "Max Homa",
+    "group_4": "Matt Kuchar",
+    "group_5": "Mackenzie Hughes",
+    "Initials": "David Finn"
+  },
+  {
+    "Name": "Sam Sturley",
+    "group_1": "Jordan Spieth",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Henrik Stenson",
+    "group_5": "Ian Poulter",
+    "Initials": "Sam Sturley"
+  },
+  {
+    "Name": "Luke Bray",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Sungjae Im",
+    "group_3": "Victor Perez",
+    "group_4": "Danny Willett",
+    "group_5": "Billy Horschel",
+    "Initials": "Luke Bray"
+  },
+  {
+    "Name": "Warren Pegg",
+    "group_1": "Jordan Spieth",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Marc Leishman",
+    "group_5": "Mackenzie Hughes",
+    "Initials": "Warren Pegg"
+  },
+  {
+    "Name": "Pat Nestor",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "Jack 9253"
+  },
+  {
+    "Name": "Rory Sloggett",
+    "group_1": "Jon Rahm",
+    "group_2": "Webb Simpson",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Ryan Palmer",
+    "Initials": "Rory Sloggett"
+  },
+  {
+    "Name": "Harry Sutton",
+    "group_1": "Dustin Johnson",
+    "group_2": "Sergio Garcia",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Harry Sutton"
+  },
+  {
+    "Name": "Seán Dunne",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Victor Perez",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "Seán Dunne"
+  },
+  {
+    "Name": "Robert Jackson",
+    "group_1": "Brooks Koepka",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Zach Johnson",
+    "Initials": "Rob1354"
+  },
+  {
+    "Name": "Brian Horan",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "BH4587"
+  },
+  {
+    "Name": "Harry Beegan",
+    "group_1": "Jordan Spieth",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Wallace",
+    "group_5": "Ian Poulter",
+    "Initials": "Harry Beegan"
+  },
+  {
+    "Name": "Jack Beegan",
+    "group_1": "Xander Schauffele",
+    "group_2": "Sungjae Im",
+    "group_3": "Brian Harman",
+    "group_4": "Matt Kuchar",
+    "group_5": "Bernhard Langer",
+    "Initials": "Jack Beegan"
+  },
+  {
+    "Name": "Adrian Taheny",
+    "group_1": "Dustin Johnson",
+    "group_2": "Bubba Watson",
+    "group_3": "Matthew Wolff",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "Adrian Taheny"
+  },
+  {
+    "Name": "Gillian Beegan",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Abraham Ancer",
+    "group_4": "Marc Leishman",
+    "group_5": "Billy Horschel",
+    "Initials": "GB1364"
+  },
+  {
+    "Name": "Chris Evans",
+    "group_1": "Jordan Spieth",
+    "group_2": "Jason Day",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "SmudgeEvans"
+  },
+  {
+    "Name": "Conor Swaine",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Abraham Ancer",
+    "group_4": "Jason Kokrak",
+    "group_5": "Ryan Palmer",
+    "Initials": "Conor Swaine"
+  },
+  {
+    "Name": "Simon Gallimore",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Lee Westwood",
+    "group_3": "Matthew Wolff",
+    "group_4": "Si Woo Kim",
+    "group_5": "Jose Maria Olazabal",
+    "Initials": "SG21"
+  },
+  {
+    "Name": "Matthew Madden",
+    "group_1": "Xander Schauffele",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Matt Madden"
+  },
+  {
+    "Name": "Chris Sharp",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Chris"
+  },
+  {
+    "Name": "Mitch Jones",
+    "group_1": "Brooks Koepka",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Wallace",
+    "group_5": "Zach Johnson",
+    "Initials": "Mitch Jones"
+  },
+  {
+    "Name": "David Rich",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Daniel Berger",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Si Woo Kim",
+    "group_5": "C.T. Pan",
+    "Initials": "DR0707"
+  },
+  {
+    "Name": "Jeremiah O’Connor",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Jerh1234"
+  },
+  {
+    "Name": "James holmes",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Ryan Palmer",
+    "Initials": "Holmsey"
+  },
+  {
+    "Name": "David Gordon",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Dave Gordon"
+  },
+  {
+    "Name": "Michael mcgonigle",
+    "group_1": "Tony Finau",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Mmcg 6106"
+  },
+  {
+    "Name": "Seamus Clancy",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Shane Lowry",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Seamus Clancy"
+  },
+  {
+    "Name": "Fintan Caulfield",
+    "group_1": "Tony Finau",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Carlos Ortiz",
+    "group_5": "Kevin Na",
+    "Initials": "Fintan Caulfield"
+  },
+  {
+    "Name": "Sean O’Byrne",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Jason Kokrak",
+    "group_5": "Ian Poulter",
+    "Initials": "Sean O’Byrne"
+  },
+  {
+    "Name": "Philip O Donoghue",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Daniel Berger",
+    "group_3": "Gary Woodland",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "NotoriousPOD"
+  },
+  {
+    "Name": "Ronan Cullinane",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "Ronan Cullinane"
+  },
+  {
+    "Name": "Matthew Boland",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Sebastian Munoz",
+    "Initials": "19th Hole Club"
+  },
+  {
+    "Name": "Hugh Ronaldson",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Jason Kokrak",
+    "group_5": "Ryan Palmer",
+    "Initials": "Hugh"
+  },
+  {
+    "Name": "Matt Farrell",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Max Homa",
+    "group_4": "Si Woo Kim",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "Matt Farrell"
+  },
+  {
+    "Name": "Ashley west",
+    "group_1": "Justin Thomas",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Ashley west"
+  },
+  {
+    "Name": "Tyrone kane",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Victor Perez",
+    "group_4": "Kevin Kisner",
+    "group_5": "Zach Johnson",
+    "Initials": "TKane"
+  },
+  {
+    "Name": "Zoe Berkery",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Jason Kokrak",
+    "group_5": "Ian Poulter",
+    "Initials": "Regina Phalange"
+  },
+  {
+    "Name": "Luke McGuinn",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Max Homa",
+    "group_4": "Matt Jones",
+    "group_5": "Billy Horschel",
+    "Initials": "Luke M"
+  },
+  {
+    "Name": "Anne McAuley",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Kuchar",
+    "group_5": "Bernhard Langer",
+    "Initials": "Ann Mc 1"
+  },
+  {
+    "Name": "Ann McAuley",
+    "group_1": "Patrick Reed",
+    "group_2": "Paul Casey",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Zach Johnson",
+    "Initials": "Ann Mc 2"
+  },
+  {
+    "Name": "Ryan doble",
+    "group_1": "Collin Morikawa",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Shane Lowry",
+    "group_4": "Kevin Kisner",
+    "group_5": "Billy Horschel",
+    "Initials": "Doble"
+  },
+  {
+    "Name": "Shauna Robinson",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Wallace",
+    "group_5": "Ryan Palmer",
+    "Initials": "Shauna R"
+  },
+  {
+    "Name": "William Avery",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Willy Boy"
+  },
+  {
+    "Name": "Stephen Yates",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Jones",
+    "group_5": "Zach Johnson",
+    "Initials": "SY2000"
+  },
+  {
+    "Name": "Craig Ronaldson",
+    "group_1": "Dustin Johnson",
+    "group_2": "Paul Casey",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Wallace",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Craig"
+  },
+  {
+    "Name": "Albert van der Merwe",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Charl Schwartzel",
+    "Initials": "AvdM31"
+  },
+  {
+    "Name": "Stephen Donnelly",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Adam Scott",
+    "group_3": "Abraham Ancer",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "Steve Donnelly"
+  },
+  {
+    "Name": "Sam O Dwyer",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Phil Mickelson",
+    "group_5": "Billy Horschel",
+    "Initials": "SammieD96"
+  },
+  {
+    "Name": "Kevin McCabe",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Max Homa",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "Kevin McCabe"
+  },
+  {
+    "Name": "Cillian Curran",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Will Zalatoris",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Ian Poulter",
+    "Initials": "Darko"
+  },
+  {
+    "Name": "Ian Carrigg",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Justin Rose",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Kevin Na",
+    "Initials": "Ian Carrigg"
+  },
+  {
+    "Name": "Pete Wallis",
+    "group_1": "Dustin Johnson",
+    "group_2": "Justin Rose",
+    "group_3": "Gary Woodland",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Pete W"
+  },
+  {
+    "Name": "Mike Stack",
+    "group_1": "Dustin Johnson",
+    "group_2": "Sergio Garcia",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Vijay Singh",
+    "Initials": "Mike Stack"
+  },
+  {
+    "Name": "Daniel Liston",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "Sharkey’s son"
+  },
+  {
+    "Name": "Sean McCann",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Phil Mickelson",
+    "group_5": "Zach Johnson",
+    "Initials": "SM1996"
+  },
+  {
+    "Name": "Mark Ronaldson",
+    "group_1": "Jon Rahm",
+    "group_2": "Daniel Berger",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Jason Kokrak",
+    "group_5": "Lanto Griffin",
+    "Initials": "Mark Ronaldson"
+  },
+  {
+    "Name": "Guy Fallows",
+    "group_1": "Viktor Hovland",
+    "group_2": "Cameron Smith",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Kuchar",
+    "group_5": "Bernhard Langer",
+    "Initials": "Guy Fallows"
+  },
+  {
+    "Name": "Albert Power",
+    "group_1": "Dustin Johnson",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Phil Mickelson",
+    "group_5": "Kevin Na",
+    "Initials": "Duckdown"
+  },
+  {
+    "Name": "Michael Briscoe",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "Michael Briscoe"
+  },
+  {
+    "Name": "Tommy Fennell",
+    "group_1": "Patrick Reed",
+    "group_2": "Daniel Berger",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Wallace",
+    "group_5": "Ian Poulter",
+    "Initials": "Tommy Fennell"
+  },
+  {
+    "Name": "Joe Galligan",
+    "group_1": "Patrick Reed",
+    "group_2": "Bubba Watson",
+    "group_3": "Brian Harman",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "JG1829"
+  },
+  {
+    "Name": "Mark Dodsley",
+    "group_1": "Patrick Reed",
+    "group_2": "Sergio Garcia",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Wallace",
+    "group_5": "Jimmy Walker",
+    "Initials": "Mark Dodsley"
+  },
+  {
+    "Name": "Matt Jones",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sergio Garcia",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Danny Willett",
+    "group_5": "Ian Poulter",
+    "Initials": "MJ1001"
+  },
+  {
+    "Name": "Tom Nolan",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Victor Perez",
+    "group_4": "Si Woo Kim",
+    "group_5": "Jimmy Walker",
+    "Initials": "Tomdaw"
+  },
+  {
+    "Name": "Alan Mc Glinchey",
+    "group_1": "Jordan Spieth",
+    "group_2": "Jason Day",
+    "group_3": "Shane Lowry",
+    "group_4": "Si Woo Kim",
+    "group_5": "Bernhard Langer",
+    "Initials": "AMG1234"
+  },
+  {
+    "Name": "John Winters",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sergio Garcia",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Danny Willett",
+    "group_5": "Billy Horschel",
+    "Initials": "John Winters"
+  },
+  {
+    "Name": "Patrick O Dwyer",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Ryan Palmer",
+    "Initials": "Paddy Magic"
+  },
+  {
+    "Name": "Ronan Stack",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Billy Horschel",
+    "Initials": "Ronan Stack"
+  },
+  {
+    "Name": "Anne Flanagan",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Abraham Ancer",
+    "group_4": "Matt Kuchar",
+    "group_5": "Sebastian Munoz",
+    "Initials": "AF0602"
+  },
+  {
+    "Name": "Ben Walker",
+    "group_1": "Justin Thomas",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Ben Walker"
+  },
+  {
+    "Name": "Eilish Farrell",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "MrsF"
+  },
+  {
+    "Name": "Jake Macken",
+    "group_1": "Jon Rahm",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Marc Leishman",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Jake Macken"
+  },
+  {
+    "Name": "Alex Crowe",
+    "group_1": "Dustin Johnson",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Sebastian Munoz",
+    "Initials": "ATC1928"
+  },
+  {
+    "Name": "Sam O’Dowda",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Max Homa",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "Sam O’Dowda"
+  },
+  {
+    "Name": "Brian Stack",
+    "group_1": "Patrick Reed",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Brian Stack"
+  },
+  {
+    "Name": "DaraOD",
+    "group_1": "Dustin Johnson",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Dod"
+  },
+  {
+    "Name": "Adam Moore McCarthy",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Corey Conners",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "Adam Moore McCarthy"
+  },
+  {
+    "Name": "Matt Corrie",
+    "group_1": "Xander Schauffele",
+    "group_2": "Lee Westwood",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "MC1993"
+  },
+  {
+    "Name": "Robbie Stubbs",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Max Homa",
+    "group_4": "Matt Jones",
+    "group_5": "Billy Horschel",
+    "Initials": "RobbieStubbs"
+  },
+  {
+    "Name": "Joe Pickford",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "JoePickford"
+  },
+  {
+    "Name": "Noel Clare",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Danny Willett",
+    "group_5": "Jimmy Walker",
+    "Initials": "GolfingGodz"
+  },
+  {
+    "Name": "Ciaran McGrath",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Wallace",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Duah8"
+  },
+  {
+    "Name": "Grace Pentony",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Billy Horschel",
+    "Initials": "Grace Pentony"
+  },
+  {
+    "Name": "Heatley Tector",
+    "group_1": "Collin Morikawa",
+    "group_2": "Paul Casey",
+    "group_3": "Victor Perez",
+    "group_4": "Marc Leishman",
+    "group_5": "Billy Horschel",
+    "Initials": "Heatley Tector"
+  },
+  {
+    "Name": "Ed Joyce",
+    "group_1": "Jon Rahm",
+    "group_2": "Cameron Smith",
+    "group_3": "Corey Conners",
+    "group_4": "Phil Mickelson",
+    "group_5": "Zach Johnson",
+    "Initials": "Ed Joyce"
+  },
+  {
+    "Name": "Patrick Burch-Lovell",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Abraham Ancer",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Patrick Burch-Lovell"
+  },
+  {
+    "Name": "Bryan smith",
+    "group_1": "Justin Thomas",
+    "group_2": "Webb Simpson",
+    "group_3": "Will Zalatoris",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "Bryan S"
+  },
+  {
+    "Name": "Kevin Prendergast",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Webb Simpson",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ian Poulter",
+    "Initials": "kp_backswing"
+  },
+  {
+    "Name": "Glenn Querl",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Wallace",
+    "group_5": "Zach Johnson",
+    "Initials": "Glenn Querl"
+  },
+  {
+    "Name": "Shane Farrell",
+    "group_1": "Justin Thomas",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "SF0001"
+  },
+  {
+    "Name": "Jack Ryan",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Jason Kokrak",
+    "group_5": "Zach Johnson",
+    "Initials": "Jack Ryan"
+  },
+  {
+    "Name": "Neil Feeney",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Shane Lowry",
+    "group_4": "Marc Leishman",
+    "group_5": "Billy Horschel",
+    "Initials": "DuffHook Golf"
+  },
+  {
+    "Name": "Fiachra Tucker",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Brian Harman",
+    "group_4": "Danny Willett",
+    "group_5": "Billy Horschel",
+    "Initials": "Fiachra Tucker"
+  },
+  {
+    "Name": "John Madigan",
+    "group_1": "Tony Finau",
+    "group_2": "Cameron Smith",
+    "group_3": "Cameron Champ",
+    "group_4": "Danny Willett",
+    "group_5": "Martin Laird",
+    "Initials": "John Charles"
+  },
+  {
+    "Name": "Danny Ruddock",
+    "group_1": "Rory McIlroy",
+    "group_2": "Bubba Watson",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Wallace",
+    "group_5": "Charl Schwartzel",
+    "Initials": "Danny Ruddock"
+  },
+  {
+    "Name": "Darragh Corrigan",
+    "group_1": "Jon Rahm",
+    "group_2": "Paul Casey",
+    "group_3": "Victor Perez",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "Horny bandits"
+  },
+  {
+    "Name": "Keith Monaghan",
+    "group_1": "Dustin Johnson",
+    "group_2": "Webb Simpson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ian Poulter",
+    "Initials": "KeithM1310"
+  },
+  {
+    "Name": "Eugene Galligan",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "EG1989"
+  },
+  {
+    "Name": "Sean Briscoe",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Billy Horschel",
+    "Initials": "Vapelord’s G squad"
+  },
+  {
+    "Name": "Tim McGuinness",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "TMcG"
+  },
+  {
+    "Name": "Peter Rooney",
+    "group_1": "Rory McIlroy",
+    "group_2": "Cameron Smith",
+    "group_3": "Cameron Champ",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Peter Rooney"
+  },
+  {
+    "Name": "Jane O Connor",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "Jane O Con 1234"
+  },
+  {
+    "Name": "Peter Wright",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Justin Rose",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Bernhard Langer",
+    "Initials": "Peter Wright"
+  },
+  {
+    "Name": "Thomas Sullivan",
+    "group_1": "Collin Morikawa",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Thomas Sull"
+  },
+  {
+    "Name": "Max Doyle",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Max Doyle"
+  },
+  {
+    "Name": "Michael Rogers",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Kevin Kisner",
+    "group_5": "Sebastian Munoz",
+    "Initials": "MRog8471"
+  },
+  {
+    "Name": "Keith Abbey",
+    "group_1": "Jordan Spieth",
+    "group_2": "Daniel Berger",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Billy Horschel",
+    "Initials": "Keith Abbey"
+  },
+  {
+    "Name": "Padraig Lynch",
+    "group_1": "Jon Rahm",
+    "group_2": "Paul Casey",
+    "group_3": "Abraham Ancer",
+    "group_4": "Marc Leishman",
+    "group_5": "Lanto Griffin",
+    "Initials": "PaddyTalksGolf"
+  },
+  {
+    "Name": "Dan Padfield",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Mackenzie Hughes",
+    "Initials": "Dan Padfield"
+  },
+  {
+    "Name": "Joe Robbins",
+    "group_1": "Dustin Johnson",
+    "group_2": "Webb Simpson",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Billy Horschel",
+    "Initials": "Robbo11"
+  },
+  {
+    "Name": "Tom Padfield",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Tom Padfield"
+  },
+  {
+    "Name": "Caolan Farrell",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Riley"
+  },
+  {
+    "Name": "Robin Padfield",
+    "group_1": "Rory McIlroy",
+    "group_2": "Daniel Berger",
+    "group_3": "Shane Lowry",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Billy Horschel",
+    "Initials": "Taffypad"
+  },
+  {
+    "Name": "Donal Crosbie",
+    "group_1": "Justin Thomas",
+    "group_2": "Webb Simpson",
+    "group_3": "Corey Conners",
+    "group_4": "Kevin Kisner",
+    "group_5": "Billy Horschel",
+    "Initials": "Donal Crosbie"
+  },
+  {
+    "Name": "Ben Collins",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "BENC1998"
+  },
+  {
+    "Name": "James Cooper",
+    "group_1": "Jordan Spieth",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Francesco Molinari",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Jimmy Cooper"
+  },
+  {
+    "Name": "Christopher Armitage",
+    "group_1": "Patrick Reed",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "christy_93"
+  },
+  {
+    "Name": "Aylwin Kearney",
+    "group_1": "Justin Thomas",
+    "group_2": "Adam Scott",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Danny Willett",
+    "group_5": "Billy Horschel",
+    "Initials": "Aylwin Kearney"
+  },
+  {
+    "Name": "Lorcan Tucker",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Will Zalatoris",
+    "group_4": "Matt Wallace",
+    "group_5": "Ian Poulter",
+    "Initials": "Lorcan Tucker"
+  },
+  {
+    "Name": "Tenzin Perkins",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Wallace",
+    "group_5": "Lanto Griffin",
+    "Initials": "T Perks"
+  },
+  {
+    "Name": "Daire Dillon",
+    "group_1": "Collin Morikawa",
+    "group_2": "Daniel Berger",
+    "group_3": "Cameron Champ",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Ryan Palmer",
+    "Initials": "Daire Dillon"
+  },
+  {
+    "Name": "Killian Broderick",
+    "group_1": "Jon Rahm",
+    "group_2": "Cameron Smith",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Killian Broderick"
+  },
+  {
+    "Name": "Jonathon Squance",
+    "group_1": "Dustin Johnson",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Wallace",
+    "group_5": "Billy Horschel",
+    "Initials": "JSquance"
+  },
+  {
+    "Name": "Brian Considine",
+    "group_1": "Dustin Johnson",
+    "group_2": "Sungjae Im",
+    "group_3": "Corey Conners",
+    "group_4": "Marc Leishman",
+    "group_5": "Kevin Na",
+    "Initials": "Brian Considine"
+  },
+  {
+    "Name": "Analyn Pentony",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Shane Lowry",
+    "group_4": "Henrik Stenson",
+    "group_5": "Ian Poulter",
+    "Initials": "Analyn Pentony"
+  },
+  {
+    "Name": "Donie Shine",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Donie Shine"
+  },
+  {
+    "Name": "Ciaran Harte",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Max Homa",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Billy Horschel",
+    "Initials": "CiaranHarte96"
+  },
+  {
+    "Name": "Patrick Clarke",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sungjae Im",
+    "group_3": "Matthew Wolff",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "PC0994"
+  },
+  {
+    "Name": "Colin Pentony",
+    "group_1": "Rory McIlroy",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Shane Lowry",
+    "group_4": "Si Woo Kim",
+    "group_5": "Charl Schwartzel",
+    "Initials": "Colin Pentony"
+  },
+  {
+    "Name": "Shane O'Keeffe",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Shane Lowry",
+    "group_4": "Kevin Kisner",
+    "group_5": "Ian Poulter",
+    "Initials": "Shane O'Keeffe"
+  },
+  {
+    "Name": "Liam Power",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Brian Harman",
+    "group_4": "Carlos Ortiz",
+    "group_5": "Billy Horschel",
+    "Initials": "Liam Power"
+  },
+  {
+    "Name": "Patrick Clarke Jnr",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Patrick Clarke"
+  },
+  {
+    "Name": "Ash White",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Ash White 2495"
+  },
+  {
+    "Name": "Gerry Harte",
+    "group_1": "Jon Rahm",
+    "group_2": "Lee Westwood",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "GerryHarte2021"
+  },
+  {
+    "Name": "Tom O'Dea",
+    "group_1": "Jordan Spieth",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "Tom O'Dea"
+  },
+  {
+    "Name": "Ben Carty",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Ben Carty"
+  },
+  {
+    "Name": "Jack Holohan",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Matthew Wolff",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Jack Holohan"
+  },
+  {
+    "Name": "Tim Gilsenan",
+    "group_1": "Jon Rahm",
+    "group_2": "Lee Westwood",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "TG2001"
+  },
+  {
+    "Name": "Luke Harrington",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Wallace",
+    "group_5": "Zach Johnson",
+    "Initials": "Jocks for Joe"
+  },
+  {
+    "Name": "Tom Reilly",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Corey Conners",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Tom Reilly"
+  },
+  {
+    "Name": "Eoghan Corkery",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Eoghan Corkery"
+  },
+  {
+    "Name": "Conor Booth",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Daniel Berger",
+    "group_3": "Max Homa",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ryan Palmer",
+    "Initials": "To the moon"
+  },
+  {
+    "Name": "Darren Mulvaney",
+    "group_1": "Rory McIlroy",
+    "group_2": "Paul Casey",
+    "group_3": "Matthew Wolff",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Darren Mulvaney"
+  },
+  {
+    "Name": "Ian Bentham",
+    "group_1": "Jon Rahm",
+    "group_2": "Cameron Smith",
+    "group_3": "Max Homa",
+    "group_4": "Phil Mickelson",
+    "group_5": "Kevin Na",
+    "Initials": "IanB"
+  },
+  {
+    "Name": "Donal Murphy",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Sergio Garcia",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "DM2425"
+  },
+  {
+    "Name": "Stephen Mc Goingle",
+    "group_1": "Dustin Johnson",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "Stephen Mc Goingle"
+  },
+  {
+    "Name": "Barry Cuneen",
+    "group_1": "Rory McIlroy",
+    "group_2": "Sergio Garcia",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Phil Mickelson",
+    "group_5": "Zach Johnson",
+    "Initials": "Barry Cuneen"
+  },
+  {
+    "Name": "Shane Ryan",
+    "group_1": "Jon Rahm",
+    "group_2": "Sungjae Im",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "ShaneDLS"
+  },
+  {
+    "Name": "Eilish Hagan",
+    "group_1": "Dustin Johnson",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Eilish Hagan"
+  },
+  {
+    "Name": "Mark Fox",
+    "group_1": "Jon Rahm",
+    "group_2": "Sungjae Im",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Mark Fox"
+  },
+  {
+    "Name": "Liam Firkin",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Mackenzie Hughes",
+    "Initials": "LiamFirkin"
+  },
+  {
+    "Name": "Michele Galligan",
+    "group_1": "Jordan Spieth",
+    "group_2": "Justin Rose",
+    "group_3": "Brian Harman",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Michele"
+  },
+  {
+    "Name": "Ben Leacock",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Max Homa",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "BL1850"
+  },
+  {
+    "Name": "Brian Kelleher",
+    "group_1": "Dustin Johnson",
+    "group_2": "Webb Simpson",
+    "group_3": "Cameron Champ",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "BKCM 68"
+  },
+  {
+    "Name": "Tom Foran",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Wallace",
+    "group_5": "Ryan Palmer",
+    "Initials": "Tom Foran"
+  },
+  {
+    "Name": "Cillian Casey",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Lee Westwood",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "DeChamboom"
+  },
+  {
+    "Name": "Kyle Maguire",
+    "group_1": "Rory McIlroy",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "Kyle"
+  },
+  {
+    "Name": "Darragh McCauley",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "DMcC"
+  },
+  {
+    "Name": "Kevin Doorley",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Kevin Doorley"
+  },
+  {
+    "Name": "Adam Ralph",
+    "group_1": "Dustin Johnson",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Wallace",
+    "group_5": "Ryan Palmer",
+    "Initials": "Adam Ralph"
+  },
+  {
+    "Name": "Mark Shine",
+    "group_1": "Rory McIlroy",
+    "group_2": "Lee Westwood",
+    "group_3": "Francesco Molinari",
+    "group_4": "Danny Willett",
+    "group_5": "Zach Johnson",
+    "Initials": "Mark Shine"
+  },
+  {
+    "Name": "David O'Hara",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Billy Horschel",
+    "Initials": "David O'Hara"
+  },
+  {
+    "Name": "Ellie Power",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "Ellie Power"
+  },
+  {
+    "Name": "Dominick Joyce",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Phil Mickelson",
+    "group_5": "Brian Gay",
+    "Initials": "DJ1616"
+  },
+  {
+    "Name": "Sean Gavin",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Sungjae Im",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Danny Willett",
+    "group_5": "Billy Horschel",
+    "Initials": "Seaneen Gavin"
+  },
+  {
+    "Name": "Denis Corroon",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "Denis Corroon"
+  },
+  {
+    "Name": "Kevin Smith",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Shane Lowry",
+    "group_4": "Danny Willett",
+    "group_5": "Ian Poulter",
+    "Initials": "Kevin S 777"
+  },
+  {
+    "Name": "Daniel Hussey",
+    "group_1": "Jordan Spieth",
+    "group_2": "Daniel Berger",
+    "group_3": "Brian Harman",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Daniel Hussey"
+  },
+  {
+    "Name": "Scott Thompson",
+    "group_1": "Justin Thomas",
+    "group_2": "Webb Simpson",
+    "group_3": "Matthew Wolff",
+    "group_4": "Kevin Kisner",
+    "group_5": "Ian Poulter",
+    "Initials": "Scott Thompson"
+  },
+  {
+    "Name": "Emmet Deeney",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sungjae Im",
+    "group_3": "Brian Harman",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "Emmet Deeney"
+  },
+  {
+    "Name": "Luke young",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Matthew Wolff",
+    "group_4": "Danny Willett",
+    "group_5": "Kevin Na",
+    "Initials": "LJY"
+  },
+  {
+    "Name": "Liam Hennelly",
+    "group_1": "Jordan Spieth",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Shane Lowry",
+    "group_4": "Danny Willett",
+    "group_5": "Ryan Palmer",
+    "Initials": "Liam Hennelly"
+  },
+  {
+    "Name": "Matthew Sheedy",
+    "group_1": "Jon Rahm",
+    "group_2": "Adam Scott",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Phil Mickelson",
+    "group_5": "Kevin Na",
+    "Initials": "Matthew Sheedy"
+  },
+  {
+    "Name": "Daniel Mulcahy",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Daniel Mulcahy"
+  },
+  {
+    "Name": "Josh Beardow",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Kuchar",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Josh Beardow"
+  },
+  {
+    "Name": "Ryan Collins",
+    "group_1": "Dustin Johnson",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Ryan Collins01"
+  },
+  {
+    "Name": "Paddy Grant",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Westbhoy"
+  },
+  {
+    "Name": "John Leacy",
+    "group_1": "Jon Rahm",
+    "group_2": "Adam Scott",
+    "group_3": "Corey Conners",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "John Leacy"
+  },
+  {
+    "Name": "Marc Morrison",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Will Zalatoris",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Marc Morrison"
+  },
+  {
+    "Name": "Jonathan Hanbury",
+    "group_1": "Brooks Koepka",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Carlos Ortiz",
+    "group_5": "Billy Horschel",
+    "Initials": "Jonathan Hanbury"
+  },
+  {
+    "Name": "Sam Pithers",
+    "group_1": "Collin Morikawa",
+    "group_2": "Jason Day",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "SamPithers"
+  },
+  {
+    "Name": "Sean Dunne",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Sean Dunne"
+  },
+  {
+    "Name": "Sam O’Connor",
+    "group_1": "Rory McIlroy",
+    "group_2": "Sergio Garcia",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Mackenzie Hughes",
+    "Initials": "SOC4949"
+  },
+  {
+    "Name": "Brian Murphy",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Zach Johnson",
+    "Initials": "BIGBRI60"
+  },
+  {
+    "Name": "Michael Reddy",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Bubba Watson",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "GraysonsClub"
+  },
+  {
+    "Name": "Alan Bowman",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Brian Harman",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Billy Horschel",
+    "Initials": "Alan Bowman"
+  },
+  {
+    "Name": "Jim Phelan",
+    "group_1": "Dustin Johnson",
+    "group_2": "Paul Casey",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Billy Horschel",
+    "Initials": "JimP171"
+  },
+  {
+    "Name": "Michael O'Sullivan",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "Michael O'Sullivan"
+  },
+  {
+    "Name": "derry alldritt",
+    "group_1": "Patrick Reed",
+    "group_2": "Adam Scott",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Charl Schwartzel",
+    "Initials": "derry"
+  },
+  {
+    "Name": "Henry Yates",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Paul Casey",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "HY1957"
+  },
+  {
+    "Name": "Adam o connor",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Jimmy Walker",
+    "Initials": "Adamoc16"
+  },
+  {
+    "Name": "Tom Prior",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Danny Willett",
+    "group_5": "Zach Johnson",
+    "Initials": "Tom Prior"
+  },
+  {
+    "Name": "Graham crowe",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Webb Simpson",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Zach Johnson",
+    "Initials": "Graham crowe"
+  },
+  {
+    "Name": "Mick Cotter",
+    "group_1": "Xander Schauffele",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Abraham Ancer",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Mick Cotter"
+  },
+  {
+    "Name": "Daniel Marston",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Max Homa",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "Dan Marston"
+  },
+  {
+    "Name": "Jose carvallo",
+    "group_1": "Dustin Johnson",
+    "group_2": "Sergio Garcia",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Wallace",
+    "group_5": "Ian Poulter",
+    "Initials": "Josec"
+  },
+  {
+    "Name": "Gerard Power",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Danny Willett",
+    "group_5": "Zach Johnson",
+    "Initials": "Ger Power"
+  },
+  {
+    "Name": "Joe Flanagan",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Sungjae Im",
+    "group_3": "Shane Lowry",
+    "group_4": "Henrik Stenson",
+    "group_5": "Zach Johnson",
+    "Initials": "Joe flanagan"
+  },
+  {
+    "Name": "Orla Leavey",
+    "group_1": "Jordan Spieth",
+    "group_2": "Justin Rose",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Jones",
+    "group_5": "Zach Johnson",
+    "Initials": "Orla Leavey"
+  },
+  {
+    "Name": "Neil Caddis",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Kevin Kisner",
+    "group_5": "Mackenzie Hughes",
+    "Initials": "TheCaddy"
+  },
+  {
+    "Name": "David Collier",
+    "group_1": "Dustin Johnson",
+    "group_2": "Webb Simpson",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Marc Leishman",
+    "group_5": "Ian Poulter",
+    "Initials": "David Collier"
+  },
+  {
+    "Name": "Jack Lockwood",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Corey Conners",
+    "group_4": "Jason Kokrak",
+    "group_5": "Sebastian Munoz",
+    "Initials": "JLTIPSS"
+  },
+  {
+    "Name": "Keith Flaherty",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sergio Garcia",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Danny Willett",
+    "group_5": "Billy Horschel",
+    "Initials": "Keith Flaherty"
+  },
+  {
+    "Name": "Matthew Hagan",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Matty Hagan"
+  },
+  {
+    "Name": "Cathal Crehan",
+    "group_1": "Justin Thomas",
+    "group_2": "Justin Rose",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "Cathal Crehan"
+  },
+  {
+    "Name": "Conor Brennan",
+    "group_1": "Rory McIlroy",
+    "group_2": "Sergio Garcia",
+    "group_3": "Brian Harman",
+    "group_4": "Phil Mickelson",
+    "group_5": "Lanto Griffin",
+    "Initials": "C Mudball Baby B"
+  },
+  {
+    "Name": "Andrew Gabbitas",
+    "group_1": "Rory McIlroy",
+    "group_2": "Paul Casey",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Marc Leishman",
+    "group_5": "Charl Schwartzel",
+    "Initials": "Gabby"
+  },
+  {
+    "Name": "Daniel Mc Tiernan",
+    "group_1": "Jon Rahm",
+    "group_2": "Sergio Garcia",
+    "group_3": "Shane Lowry",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Ian Poulter",
+    "Initials": "Dan Mc"
+  },
+  {
+    "Name": "David Burke",
+    "group_1": "Justin Thomas",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "David Burke"
+  },
+  {
+    "Name": "Philly murphy",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Matthew Wolff",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Murphy2021"
+  },
+  {
+    "Name": "Cian Murphy",
+    "group_1": "Jordan Spieth",
+    "group_2": "Jason Day",
+    "group_3": "Max Homa",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ryan Palmer",
+    "Initials": "Cian Murphy"
+  },
+  {
+    "Name": "Liam Munster",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Billy Horschel",
+    "Initials": "Liam Munster"
+  },
+  {
+    "Name": "Karl losty",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Wallace",
+    "group_5": "Kevin Na",
+    "Initials": "Karl losty"
+  },
+  {
+    "Name": "Eoin Moore",
+    "group_1": "Jordan Spieth",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Eoin Moore"
+  },
+  {
+    "Name": "Ciaran Fox",
+    "group_1": "Rory McIlroy",
+    "group_2": "Sergio Garcia",
+    "group_3": "Brian Harman",
+    "group_4": "Matt Kuchar",
+    "group_5": "Martin Laird",
+    "Initials": "Cfox"
+  },
+  {
+    "Name": "Brian Carrigg",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Marc Leishman",
+    "group_5": "Billy Horschel",
+    "Initials": "Brian C"
+  },
+  {
+    "Name": "Aaron Pledger",
+    "group_1": "Rory McIlroy",
+    "group_2": "Sergio Garcia",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Danny Willett",
+    "group_5": "Billy Horschel",
+    "Initials": "AP Sparks"
+  },
+  {
+    "Name": "Alan Lewis",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Zach Johnson",
+    "Initials": "LewDog Lions"
+  },
+  {
+    "Name": "Pablo Ovejas",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Victor Perez",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Ian Poulter",
+    "Initials": "Ovejas"
+  },
+  {
+    "Name": "Brian Hanrahan",
+    "group_1": "Justin Thomas",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Brian Harman",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Hannys Legends"
+  },
+  {
+    "Name": "Tom Flanagan",
+    "group_1": "Collin Morikawa",
+    "group_2": "Sungjae Im",
+    "group_3": "Max Homa",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Ryan Palmer",
+    "Initials": "Tom Flanagan"
+  },
+  {
+    "Name": "Rupert Maher",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Wallace",
+    "group_5": "Ian Poulter",
+    "Initials": "Ruppy Mazzy"
+  },
+  {
+    "Name": "Mark Thomas",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Wallace",
+    "group_5": "Ian Poulter",
+    "Initials": "Tommo 1977"
+  },
+  {
+    "Name": "Conor Savage",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Phil Mickelson",
+    "group_5": "Charl Schwartzel",
+    "Initials": "SAVAGE"
+  },
+  {
+    "Name": "Peter Fitzgerald",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Bernhard Langer",
+    "Initials": "SantryShark2021"
+  },
+  {
+    "Name": "Paul O'Sullivan",
+    "group_1": "Jordan Spieth",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Danny Willett",
+    "group_5": "Billy Horschel",
+    "Initials": "Paul O'Sullivan"
+  },
+  {
+    "Name": "Matty Rees",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "MattyRees"
+  },
+  {
+    "Name": "Gerard Dunne",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Gerard Dunne"
+  },
+  {
+    "Name": "Shane Sexton",
+    "group_1": "Jordan Spieth",
+    "group_2": "Cameron Smith",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "Shane Sexton"
+  },
+  {
+    "Name": "Paul Reynolds",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Brian Harman",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Billy Horschel",
+    "Initials": "Paul Reynolds"
+  },
+  {
+    "Name": "Seán Gibney",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Abraham Ancer",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Winner Alright"
+  },
+  {
+    "Name": "John Cleary",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Daniel Berger",
+    "group_3": "Corey Conners",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Jc54"
+  },
+  {
+    "Name": "Darragh Bellanova",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ian Poulter",
+    "Initials": "Bella"
+  },
+  {
+    "Name": "Stephen Mulready",
+    "group_1": "Justin Thomas",
+    "group_2": "Webb Simpson",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Danny Willett",
+    "group_5": "Kevin Na",
+    "Initials": "Stephen Mulready"
+  },
+  {
+    "Name": "Cian O'Hannigan",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Gee"
+  },
+  {
+    "Name": "Kevin Johnstone",
+    "group_1": "Justin Thomas",
+    "group_2": "Justin Rose",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Kevin Johnstone"
+  },
+  {
+    "Name": "Ed Wyeth",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Adam Scott",
+    "group_3": "Max Homa",
+    "group_4": "Matt Jones",
+    "group_5": "Billy Horschel",
+    "Initials": "Ed Wyeth"
+  },
+  {
+    "Name": "Mark Farrelly",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Mark Farrelly"
+  },
+  {
+    "Name": "Kevin Johnstone",
+    "group_1": "Dustin Johnson",
+    "group_2": "Jason Day",
+    "group_3": "Shane Lowry",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Zach Johnson",
+    "Initials": "Kj2"
+  },
+  {
+    "Name": "Ian Lacey",
+    "group_1": "Rory McIlroy",
+    "group_2": "Webb Simpson",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "Ian Lacey34"
+  },
+  {
+    "Name": "John Madigan",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Adam Scott",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "John Madigan"
+  },
+  {
+    "Name": "Dermot o connor",
+    "group_1": "Rory McIlroy",
+    "group_2": "Cameron Smith",
+    "group_3": "Abraham Ancer",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "Rambo 22"
+  },
+  {
+    "Name": "Joshua Partridge",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Harris English",
+    "group_4": "Danny Willett",
+    "group_5": "Sebastian Munoz",
+    "Initials": "JP"
+  },
+  {
+    "Name": "Harry Stokes",
+    "group_1": "Dustin Johnson",
+    "group_2": "Bubba Watson",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Harry Stokes"
+  },
+  {
+    "Name": "John Murray",
+    "group_1": "Jordan Spieth",
+    "group_2": "Webb Simpson",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ryan Palmer",
+    "Initials": "Johnny M"
+  },
+  {
+    "Name": "Michael Cassells",
+    "group_1": "Justin Thomas",
+    "group_2": "Justin Rose",
+    "group_3": "Shane Lowry",
+    "group_4": "Kevin Kisner",
+    "group_5": "Ian Poulter",
+    "Initials": "MC90"
+  },
+  {
+    "Name": "Rachel Wallace",
+    "group_1": "Dustin Johnson",
+    "group_2": "Paul Casey",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Rachel Wallace"
+  },
+  {
+    "Name": "Darragh Byrne",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Darragh Byrne"
+  },
+  {
+    "Name": "Don Mc Gonigle",
+    "group_1": "Patrick Reed",
+    "group_2": "Sergio Garcia",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Don mc Gonigle"
+  },
+  {
+    "Name": "James Ashby",
+    "group_1": "Dustin Johnson",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Wallace",
+    "group_5": "C.T. Pan",
+    "Initials": "Jashby"
+  },
+  {
+    "Name": "Karl Faulkner",
+    "group_1": "Dustin Johnson",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Matthew Wolff",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Karl Faulkner"
+  },
+  {
+    "Name": "John Kennedy",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Will Zalatoris",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Jk2021"
+  },
+  {
+    "Name": "Eugene Dodd",
+    "group_1": "Jordan Spieth",
+    "group_2": "Justin Rose",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Kevin Na",
+    "Initials": "ED1406"
+  },
+  {
+    "Name": "Ken kennedy",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Brian Harman",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ryan Palmer",
+    "Initials": "KK1970"
+  },
+  {
+    "Name": "Kevin Johnstone",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Kj2"
+  },
+  {
+    "Name": "Enda Murphy",
+    "group_1": "Jon Rahm",
+    "group_2": "Paul Casey",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Enda"
+  },
+  {
+    "Name": "Michael O Brien",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Brian Harman",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "C.T. Pan",
+    "Initials": "YEs"
+  },
+  {
+    "Name": "Ronan Kearney",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Ronan Kearney"
+  },
+  {
+    "Name": "Robert Vallejo",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Matthew Wolff",
+    "group_4": "Matt Kuchar",
+    "group_5": "C.T. Pan",
+    "Initials": "Robbie Vallejo"
+  },
+  {
+    "Name": "Colin Walsh",
+    "group_1": "Jordan Spieth",
+    "group_2": "Webb Simpson",
+    "group_3": "Abraham Ancer",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Kevin Na",
+    "Initials": "CW1988"
+  },
+  {
+    "Name": "Margeret Harty",
+    "group_1": "Dustin Johnson",
+    "group_2": "Paul Casey",
+    "group_3": "Harris English",
+    "group_4": "Kevin Kisner",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "Margaret Harty"
+  },
+  {
+    "Name": "Alison",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Kevin Na",
+    "Initials": "Ali"
+  },
+  {
+    "Name": "Patrick Dowling",
+    "group_1": "Justin Thomas",
+    "group_2": "Paul Casey",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "Paddy Dowling"
+  },
+  {
+    "Name": "Mark Jones",
+    "group_1": "Jon Rahm",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "Jonesy145"
+  },
+  {
+    "Name": "Emmet Kenny",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Abraham Ancer",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "Emmet K"
+  },
+  {
+    "Name": "Paraic Conway",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Will Zalatoris",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "C.T. Pan",
+    "Initials": "Paraic Conway"
+  },
+  {
+    "Name": "Kevin Dunne",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Cameron Smith",
+    "group_3": "Will Zalatoris",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Billy Horschel",
+    "Initials": "Kevin4894"
+  },
+  {
+    "Name": "Des Renehan",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Paul Casey",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Lanto Griffin",
+    "Initials": "Des Renehan"
+  },
+  {
+    "Name": "Róisín Mellett",
+    "group_1": "Justin Thomas",
+    "group_2": "Sergio Garcia",
+    "group_3": "Francesco Molinari",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Róisín Mellett"
+  },
+  {
+    "Name": "Mark Nicholson",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Mark Nicholson"
+  },
+  {
+    "Name": "Megan",
+    "group_1": "Jon Rahm",
+    "group_2": "Paul Casey",
+    "group_3": "Corey Conners",
+    "group_4": "Christiaan Bezuidenhout",
+    "group_5": "Ian Poulter",
+    "Initials": "FleetwoodMacDowell"
+  },
+  {
+    "Name": "Fiona Murphy",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sergio Garcia",
+    "group_3": "Shane Lowry",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Ian Poulter",
+    "Initials": "Fiona"
+  },
+  {
+    "Name": "Luke Jones",
+    "group_1": "Dustin Johnson",
+    "group_2": "Webb Simpson",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "lj_77"
+  },
+  {
+    "Name": "Anita Tector",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Cameron Smith",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ryan Palmer",
+    "Initials": "Anita Tector"
+  },
+  {
+    "Name": "Miceal McCartan",
+    "group_1": "Justin Thomas",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Will Zalatoris",
+    "group_4": "Si Woo Kim",
+    "group_5": "Lanto Griffin",
+    "Initials": "Miceal McCartan"
+  },
+  {
+    "Name": "Ryan Hayes",
+    "group_1": "Justin Thomas",
+    "group_2": "Sergio Garcia",
+    "group_3": "Corey Conners",
+    "group_4": "Phil Mickelson",
+    "group_5": "Sebastian Munoz",
+    "Initials": "RH1102"
+  },
+  {
+    "Name": "Amy Farrell",
+    "group_1": "Xander Schauffele",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Corey Conners",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Ryan Palmer",
+    "Initials": "Amy F"
+  },
+  {
+    "Name": "Steve Coyle",
+    "group_1": "Jordan Spieth",
+    "group_2": "Daniel Berger",
+    "group_3": "Abraham Ancer",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "SC2244"
+  },
+  {
+    "Name": "Dairena Forde",
+    "group_1": "Jordan Spieth",
+    "group_2": "Hideki Matsuyama",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Dairena"
+  },
+  {
+    "Name": "David Hughes",
+    "group_1": "Jordan Spieth",
+    "group_2": "Paul Casey",
+    "group_3": "Matthew Wolff",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "DH"
+  },
+  {
+    "Name": "Stephen Keenan",
+    "group_1": "Jon Rahm",
+    "group_2": "Webb Simpson",
+    "group_3": "Shane Lowry",
+    "group_4": "Marc Leishman",
+    "group_5": "C.T. Pan",
+    "Initials": "Stephen Keenan"
+  },
+  {
+    "Name": "Shaun O'Neill",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Daniel Berger",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Si Woo Kim",
+    "group_5": "Billy Horschel",
+    "Initials": "SO4917"
+  },
+  {
+    "Name": "Keith Ferris",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sergio Garcia",
+    "group_3": "Shane Lowry",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "Keith Ferris"
+  },
+  {
+    "Name": "Amy Nolan",
+    "group_1": "Dustin Johnson",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Ian Poulter",
+    "Initials": "AN1991"
+  },
+  {
+    "Name": "Padraic Flanagan",
+    "group_1": "Jon Rahm",
+    "group_2": "Cameron Smith",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Kevin Na",
+    "Initials": "FlannyP"
+  },
+  {
+    "Name": "Tadhg Berkery",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Tiger B Baby"
+  },
+  {
+    "Name": "Anthony Smith",
+    "group_1": "Patrick Cantlay",
+    "group_2": "Cameron Smith",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Wallace",
+    "group_5": "C.T. Pan",
+    "Initials": "PA Smith"
+  },
+  {
+    "Name": "Sid Abey",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Jason Kokrak",
+    "group_5": "Sebastian Munoz",
+    "Initials": "SA0207"
+  },
+  {
+    "Name": "Emily Kelly",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Abraham Ancer",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Zach Johnson",
+    "Initials": "Jacks girlfriend"
+  },
+  {
+    "Name": "Luke Moran",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Corey Conners",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "Luke Moran"
+  },
+  {
+    "Name": "Eoin Behan",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Matt Wallace",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "Eoin Behan"
+  },
+  {
+    "Name": "Peter Roberts",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Brian Harman",
+    "group_4": "Matt Kuchar",
+    "group_5": "Fred Couples",
+    "Initials": "PJR1523"
+  },
+  {
+    "Name": "Harry McNally",
+    "group_1": "Dustin Johnson",
+    "group_2": "Paul Casey",
+    "group_3": "Shane Lowry",
+    "group_4": "Danny Willett",
+    "group_5": "Ian Poulter",
+    "Initials": "Harry Mc"
+  },
+  {
+    "Name": "colm bolger",
+    "group_1": "Jordan Spieth",
+    "group_2": "Daniel Berger",
+    "group_3": "Brian Harman",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Jimmy Walker",
+    "Initials": "CB1976"
+  },
+  {
+    "Name": "Eoghan O'Neill",
+    "group_1": "Collin Morikawa",
+    "group_2": "Cameron Smith",
+    "group_3": "Shane Lowry",
+    "group_4": "Jason Kokrak",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Eoghan O'Neill"
+  },
+  {
+    "Name": "Joey Gallogly",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sungjae Im",
+    "group_3": "Will Zalatoris",
+    "group_4": "Jason Kokrak",
+    "group_5": "Zach Johnson",
+    "Initials": "Joeyvoeymaverick"
+  },
+  {
+    "Name": "Maureen Cullen",
+    "group_1": "Dustin Johnson",
+    "group_2": "Sergio Garcia",
+    "group_3": "Shane Lowry",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Maureen Cullen"
+  },
+  {
+    "Name": "Brian Sinnott",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Ian Poulter",
+    "Initials": "Sinno"
+  },
+  {
+    "Name": "Anthony Lynch",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Robert MacIntyre",
+    "group_5": "Ian Poulter",
+    "Initials": "Anthony Lynch"
+  },
+  {
+    "Name": "Lynn Mitchell",
+    "group_1": "Jon Rahm",
+    "group_2": "Lee Westwood",
+    "group_3": "Shane Lowry",
+    "group_4": "Kevin Kisner",
+    "group_5": "Billy Horschel",
+    "Initials": "LM9787"
+  },
+  {
+    "Name": "Fran Fitzpatrick",
+    "group_1": "Justin Thomas",
+    "group_2": "Lee Westwood",
+    "group_3": "Brian Harman",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Bernhard Langer",
+    "Initials": "Fran Fitzpatrick"
+  },
+  {
+    "Name": "Luke MacQuillan",
+    "group_1": "Jordan Spieth",
+    "group_2": "Jason Day",
+    "group_3": "Francesco Molinari",
+    "group_4": "Phil Mickelson",
+    "group_5": "Ian Poulter",
+    "Initials": "MacQuillan"
+  },
+  {
+    "Name": "Declan Kelleher",
+    "group_1": "Jon Rahm",
+    "group_2": "Matt Fitzpatrick",
+    "group_3": "Will Zalatoris",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "D Kelleher"
+  },
+  {
+    "Name": "Karl Lalor",
+    "group_1": "Bryson DeChambeau",
+    "group_2": "Sungjae Im",
+    "group_3": "Max Homa",
+    "group_4": "Matt Wallace",
+    "group_5": "Brendon Todd",
+    "Initials": "Puff Caddie"
+  },
+  {
+    "Name": "Neil Caddis",
+    "group_1": "Dustin Johnson",
+    "group_2": "Daniel Berger",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Si Woo Kim",
+    "group_5": "Ryan Palmer",
+    "Initials": "TheCaddy"
+  },
+  {
+    "Name": "Ade Marchant",
+    "group_1": "Justin Thomas",
+    "group_2": "Cameron Smith",
+    "group_3": "Brian Harman",
+    "group_4": "Si Woo Kim",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Marcho"
+  },
+  {
+    "Name": "Barry Leonard",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sergio Garcia",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "C.T. Pan",
+    "Initials": "Mike"
+  },
+  {
+    "Name": "Tomas Whitty",
+    "group_1": "Jordan Spieth",
+    "group_2": "Daniel Berger",
+    "group_3": "Louis Oosthuizen",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Zach Johnson",
+    "Initials": "Moss Whitty"
+  },
+  {
+    "Name": "Paula Reynolds",
+    "group_1": "Jon Rahm",
+    "group_2": "Paul Casey",
+    "group_3": "Corey Conners",
+    "group_4": "Si Woo Kim",
+    "group_5": "Kevin Na",
+    "Initials": "Paula Reynolds"
+  },
+  {
+    "Name": "James Downey",
+    "group_1": "Jordan Spieth",
+    "group_2": "Sungjae Im",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Matt Wallace",
+    "group_5": "Brendon Todd",
+    "Initials": "JD6341"
+  },
+  {
+    "Name": "Tony Harty",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Bernd Wiesberger",
+    "Initials": "Tony Harty"
+  },
+  {
+    "Name": "Alex Dillon",
+    "group_1": "Jordan Spieth",
+    "group_2": "Lee Westwood",
+    "group_3": "Abraham Ancer",
+    "group_4": "Marc Leishman",
+    "group_5": "Sebastian Munoz",
+    "Initials": "Dillo"
+  },
+  {
+    "Name": "Philip Martin",
+    "group_1": "Justin Thomas",
+    "group_2": "Sungjae Im",
+    "group_3": "Tommy Fleetwood",
+    "group_4": "Matt Kuchar",
+    "group_5": "Billy Horschel",
+    "Initials": "Phillys stars"
+  },
+  {
+    "Name": "Archie Maher",
+    "group_1": "Dustin Johnson",
+    "group_2": "Cameron Smith",
+    "group_3": "Corey Conners",
+    "group_4": "Dylan Frittelli",
+    "group_5": "C.T. Pan",
+    "Initials": "Archie Maher"
+  },
+  {
+    "Name": "Jamie Butler",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Corey Conners",
+    "group_4": "Matt Kuchar",
+    "group_5": "Zach Johnson",
+    "Initials": "Jamie Butler"
+  },
+  {
+    "Name": "Heather Turbett",
+    "group_1": "Justin Thomas",
+    "group_2": "Daniel Berger",
+    "group_3": "Scottie Scheffler",
+    "group_4": "Jason Kokrak",
+    "group_5": "Billy Horschel",
+    "Initials": "Hendricks"
+  },
+  {
+    "Name": "Rory Duignan",
+    "group_1": "Brooks Koepka",
+    "group_2": "Daniel Berger",
+    "group_3": "Abraham Ancer",
+    "group_4": "Dylan Frittelli",
+    "group_5": "Zach Johnson",
+    "Initials": "Rory Duignan"
+  }
+]

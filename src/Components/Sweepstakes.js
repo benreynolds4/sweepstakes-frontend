@@ -64,8 +64,8 @@ const customStyles = {
             wrap: true,
         },
         {
-            name: 'Group 3',
-            selector: row => <PlayerName player={row.group_3} liveScores={liveScores} /> ,
+            name: 'Group 4',
+            selector: row => <PlayerName player={row.group_4} liveScores={liveScores} /> ,
             sortable: true,
             wrap: true,
         },

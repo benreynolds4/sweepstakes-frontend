@@ -130,7 +130,7 @@ export class App extends Component {
   getPercentageMissedCuts() {
     var missedCuts = 0
     sweepstakesData.forEach(sweepstake  => {
-      let players = [sweepstake.group_1, sweepstake.group_2, sweepstake.group_3, sweepstake.group_5]
+      let players = [sweepstake.group_1, sweepstake.group_2, sweepstake.group_4, sweepstake.group_5]
       var missedCut = false
       for (var i = 0; i < players.length; i++) {
         let playerScore = this.getPlayerScore(players[i])
@@ -155,8 +155,8 @@ export class App extends Component {
 
   getEnhancedSweepstakeData() {
     sweepstakesData.forEach(sweepstake  => {
-          sweepstake.total_score = this.getTotalPoints([sweepstake.group_1, sweepstake.group_2, sweepstake.group_3, sweepstake.group_5])
-          sweepstake.at_risk = this.isAtRisk([sweepstake.group_1, sweepstake.group_2, sweepstake.group_3, sweepstake.group_5])
+          sweepstake.total_score = this.getTotalPoints([sweepstake.group_1, sweepstake.group_2, sweepstake.group_4, sweepstake.group_5])
+          sweepstake.at_risk = this.isAtRisk([sweepstake.group_1, sweepstake.group_2, sweepstake.group_4, sweepstake.group_5])
           sweepstake.keyField = sweepstake.Initials
           
           if (sweepstake.total_score == "1000001") {
@@ -190,10 +190,10 @@ export class App extends Component {
         }
       })
 
-      if ('group_1' in dreamTeam && 'group_2' in dreamTeam && 'group_3' in dreamTeam 
+      if ('group_1' in dreamTeam && 'group_2' in dreamTeam && 'group_4' in dreamTeam 
              && 'group_5' in dreamTeam) {
               dreamTeam.keyField = "best_team"
-              dreamTeam.total_score = this.getTotalPoints([dreamTeam.group_1, dreamTeam.group_2, dreamTeam.group_3, dreamTeam.group_5])
+              dreamTeam.total_score = this.getTotalPoints([dreamTeam.group_1, dreamTeam.group_2, dreamTeam.group_4, dreamTeam.group_5])
               dreamTeam.visual_score = dreamTeam.total_score === 1000000 ? "Not Started" : dreamTeam.total_score
               dreamTeam.Initials = ""
               dreamTeam.Name = "Dream Team*"

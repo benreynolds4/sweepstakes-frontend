@@ -10,7 +10,7 @@ import React, { Component } from 'react'
               <ul style={{ listStyleType: "none" }}>
                   <li>{team.group_1}</li>
                   <li>{team.group_2}</li>
-                  <li>{team.group_3}</li>
+                  <li>{team.group_4}</li>
                   <li>{team.group_5}</li>
                   <li>Total Score: {team.visual_score}</li>
                 </ul>

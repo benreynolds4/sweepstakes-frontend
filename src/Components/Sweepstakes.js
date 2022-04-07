@@ -70,12 +70,6 @@ const customStyles = {
             wrap: true,
         },
         {
-            name: 'Group 4',
-            selector: row => <PlayerName player={row.group_4} liveScores={liveScores} /> ,
-            sortable: true,
-            wrap: true,
-        },
-        {
             name: 'Group 5',
             selector: row => <PlayerName player={row.group_5} liveScores={liveScores} /> ,
             sortable: true,

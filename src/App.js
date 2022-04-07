@@ -3,9 +3,37 @@ import axios from 'axios';
 import LiveLeaderboard from './Components/LiveLeaderboard';
 import DreamTeam from './Components/DreamTeam';
 import Sweepstakes from './Components/Sweepstakes'
-import sweepstakesData from "./Data/data.json";
-import groupsData from "./Data/groups.json";
+import Raffle from './Components/Raffle'
+import Prizes from './Components/Prizes'
+import MostPicked from './Components/MostPicked'
+import PreviousLeaderboards from './Components/PreviousLeaderboards';
 
+import masters21SweepstakesData from "./Data/masters21-data.json";
+import masters21GroupsData from "./Data/masters21-groups.json";
+import masters22SweepstakesData from "./Data/masters22-data.json";
+import masters22GroupsData from "./Data/masters22-groups.json";
+import theOpen21SweepstakesData from "./Data/theopen21-data.json";
+import theOpen21GroupsData from "./Data/theopen21-groups.json";
+
+
+
+const TournamentURLs = {
+  MASTERS_21: 'masters21',
+  MASTERS_22: 'masters22',
+  THE_OPEN_21: 'theopen21',
+}
+
+
+const masters = true;
+const color = masters ? "w3-teal" : "w3-indigo";
+const textColor = masters ? "w3-text-teal" : "w3-text-indigo";
+const groupsData = masters22GroupsData;
+const sweepstakesData = masters22SweepstakesData;
+const tournamentEndpoint = TournamentURLs.MASTERS_22;
+const howManyMakeCut = 50; // 50 for masters, 70 for the open.
+const apiURL = 'https://gjug2h7ikj.execute-api.eu-west-1.amazonaws.com/Prod/';
+const showRaffle = false;
+const LAST_OUT = new Date('2022-04-07T19:15:00'); // TODO: Update with last tee time
 
 export class App extends Component {
 
@@ -33,15 +61,15 @@ export class App extends Component {
       enhancedSweepstakeData: this.getEnhancedSweepstakeData()
     })
   }
-
+  
   componentDidMount() {
-    axios.get(`https://522wfpt6n6.execute-api.eu-west-1.amazonaws.com/prod/pga-scores`)
+    axios.get(apiURL + tournamentEndpoint) 
         .then((res) => {
             this.setLiveScores(res.data)
             this.setEnhancedSweepstakeData()
         })
     setInterval(() => 
-      axios.get(`https://522wfpt6n6.execute-api.eu-west-1.amazonaws.com/prod/pga-scores`)
+      axios.get(apiURL + tournamentEndpoint)
         .then((res) => {
             this.setLiveScores(res.data)
             this.setEnhancedSweepstakeData()
@@ -61,7 +89,6 @@ export class App extends Component {
                 return 1000001
               }
               if (this.hasMissedCut(playerScore)) {
-                console.log(playersArray[i] + "Missed Cut")
                 return 1000000
               } 
               let position = playerScore.position.replace('T','')
@@ -81,7 +108,7 @@ export class App extends Component {
           return "Yes"
         }
         let position = playerScore.position.replace('T','')
-        if(parseInt(position) > 50) {
+        if(parseInt(position) > howManyMakeCut) { 
           return "Yes "
         }
       }
@@ -89,15 +116,25 @@ export class App extends Component {
     return "No"
   }
 
+  getPercentageAtRisk() {
+    var atRisk = 0
+    sweepstakesData.forEach(sweepstake  => {
+      if (sweepstake.at_risk === "Yes ") {
+        atRisk++;
+      }
+    })
+
+    return String(((atRisk / sweepstakesData.length) * 100).toFixed(2)) + "%"
+  }
+
   getPercentageMissedCuts() {
-    var totalCount = sweepstakesData.length
     var missedCuts = 0
     sweepstakesData.forEach(sweepstake  => {
       let players = [sweepstake.group_1, sweepstake.group_2, sweepstake.group_3, sweepstake.group_4, sweepstake.group_5]
       var missedCut = false
       for (var i = 0; i < players.length; i++) {
         let playerScore = this.getPlayerScore(players[i])
-        if (playerScore != undefined) {
+        if (playerScore !== undefined) {
           if (this.hasMissedCut(playerScore)) {
             missedCut = true
             break;
@@ -112,16 +149,26 @@ export class App extends Component {
     return String(((missedCuts / sweepstakesData.length) * 100).toFixed(2)) + "%"
   }
 
+  hasAllStarted() {
+    return new Date() > LAST_OUT;
+  }
+
   getEnhancedSweepstakeData() {
     sweepstakesData.forEach(sweepstake  => {
           sweepstake.total_score = this.getTotalPoints([sweepstake.group_1, sweepstake.group_2, sweepstake.group_3, sweepstake.group_4, sweepstake.group_5])
           sweepstake.at_risk = this.isAtRisk([sweepstake.group_1, sweepstake.group_2, sweepstake.group_3, sweepstake.group_4, sweepstake.group_5])
           sweepstake.keyField = sweepstake.Initials
+          
           if (sweepstake.total_score == "1000001") {
             sweepstake.visual_score = "Missing Player"
           } 
           else if(sweepstake.total_score == "1000000") {
-            sweepstake.visual_score = "Missed Cut" // TODO: Update to Missed Cut
+            if (this.hasAllStarted()) {
+              sweepstake.visual_score = "Missed Cut"
+            }
+            else {
+              sweepstake.visual_score = "Not Started"
+            }
           }
           else {
             sweepstake.visual_score = sweepstake.total_score
@@ -142,20 +189,24 @@ export class App extends Component {
           }
         }
       })
-      dreamTeam.keyField = "best_team"
-      dreamTeam.total_score = this.getTotalPoints([dreamTeam.group_1, dreamTeam.group_2, dreamTeam.group_3, dreamTeam.group_4, dreamTeam.group_5])
-      dreamTeam.visual_score = dreamTeam.total_score == "1000000" ? "Not Started" : dreamTeam.total_score
-      dreamTeam.Initials = ""
-      dreamTeam.Name = "Dream Team*"
-      return dreamTeam
+
+      if ('group_1' in dreamTeam && 'group_2' in dreamTeam && 'group_3' in dreamTeam 
+            && 'group_4' in dreamTeam && 'group_5' in dreamTeam) {
+              dreamTeam.keyField = "best_team"
+              dreamTeam.total_score = this.getTotalPoints([dreamTeam.group_1, dreamTeam.group_2, dreamTeam.group_3, dreamTeam.group_4, dreamTeam.group_5])
+              dreamTeam.visual_score = dreamTeam.total_score === 1000000 ? "Not Started" : dreamTeam.total_score
+              dreamTeam.Initials = ""
+              dreamTeam.Name = "Dream Team*"
+              return dreamTeam
+            }
     }
     
     return {}
   }
 
   getPlayerScore(player) {
-      var {liveScores} = this.state
-      return liveScores.find(score => score.player.toLowerCase() == player.toLowerCase())
+      var {liveScores} = this.state;
+      return liveScores.find(score => score.player.toLowerCase() == player.toLowerCase());
   }
 
   hasMissedCut(playerScore) {
@@ -174,47 +225,61 @@ export class App extends Component {
 
   render() {
     const { liveScores, enhancedSweepstakeData, updatedScores } = this.state
+
+    let date = new Date()
+    let missedCuts;
+    if (date.getDay() > 5) {
+      missedCuts = <React.Fragment>
+          <p>% Entries Missed Cut</p>
+          <div className="w3-light-grey w3-round-xlarge w3-small">
+            <div className={`w3-container w3-center w3-round-xlarge ${color}`} style={{width: this.getPercentageMissedCuts()}}>{this.getPercentageMissedCuts()}</div>
+          </div>
+      </React.Fragment>
+    } 
+    else if ( date.getDay() > 3) {
+      missedCuts = <React.Fragment>
+          <p>% Entries At risk of missing cut</p>
+          <div className="w3-light-grey w3-round-xlarge w3-small">
+            <div className={`w3-container w3-center w3-round-xlarge ${color}`} style={{width: this.getPercentageAtRisk()}}>{this.getPercentageAtRisk()}</div>
+          </div>
+      </React.Fragment>
+    }
     return (
       <React.Fragment>
         <div className="w3-row-padding">
         <div className="w3-twothird">
           <div className="w3-container w3-card w3-white">
-            <h2 className="w3-text-grey w3-padding-16"><i className="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal" />Sweepstakes:</h2>
-            <Sweepstakes updatedScores={updatedScores}  enhancedSweepstakeData={enhancedSweepstakeData} />
+            <h2 className={`w3-padding-16 ${textColor}`}><i className={`fa fa-certificate fa-fw w3-margin-right w3-xxlarge ${textColor}`} />The Masters Sweepstakes</h2>
+            <Sweepstakes textColor={textColor} updatedScores={updatedScores} liveScores={liveScores}  enhancedSweepstakeData={enhancedSweepstakeData}  />
           </div>
         </div>
         <div className="w3-third">  
           <div className="w3-white w3-text-grey w3-card-4">
-            <div className="w3-display-container">
-              <img src="https://static01.nyt.com/images/2020/04/06/sports/06virus-british-open1/merlin_170463504_0b493bed-a521-487c-a968-9dda9bff770f-jumbo.jpg?quality=90&auto=webp" style={{width: '100%'}} alt="Avatar" />
-            </div>
+
             <div className="w3-container">
-              <p><i className="fa fa-money fa-fw w3-margin-right w3-large w3-text-teal" />1st Prize: €{Math.ceil((enhancedSweepstakeData.length * 10) * .7)}</p>
-              <p><i className="fa fa-money fa-fw w3-margin-right w3-large w3-text-teal" />2nd Prize: €{Math.ceil((enhancedSweepstakeData.length * 10) * .15)}</p>
-              <p><i className="fa fa-money fa-fw w3-margin-right w3-large w3-text-teal" />3nd Prize: €{Math.ceil((enhancedSweepstakeData.length * 10) * .05)}</p>
-              <p>% Entries Missed Cut</p>
-              <div className="w3-light-grey w3-round-xlarge w3-small">
+              <section className="w3-container">
+                {masters ? 
+                <div className="w3-display-container">
+                  <h2 className={`w3-padding-16 ${textColor}`}><i className={` w3-xxlarge ${textColor}`} />Supported by</h2>
+                  <a href="https://lhw.ie/" target="_blank">
+                    <img src={'LHW.png'} className="center" style={{width: '100%'}}  alt="LHW Financial Planning" />
+                  </a>
+                </div>
+                 :
+                <img src={'globalgolf4cancer.jpeg'} className="center fifty-percent"  alt="Global Golf 4 Cancer Logo" />
+                }
                 
-                <div className="w3-container w3-center w3-round-xlarge w3-teal" style={{width: this.getPercentageMissedCuts()}}>{this.getPercentageMissedCuts()}</div>
-                {/*<div className="w3-container w3-center w3-round-xlarge w3-teal" style={{width: 0}}>0%</div>*/}
-              </div>
+              </section>
               <hr />
-
-              <p className="w3-large"><b><i className="fa fa-asterisk fa-fw w3-margin-right w3-text-teal" />The Dream Team</b></p>
-              <DreamTeam team={this.getDreamTeam()} />
-
-              <p className="w3-large"><b><i className="fa fa-asterisk fa-fw w3-margin-right w3-text-teal" />Most Picked By Group</b></p>
-              <ul style={{ listStyleType: "none" }}>
-                <li>Justin Thomas (28%)</li>
-                <li>Lee Westwood (17%)</li>
-                <li>Tommy Fleetwood (28%)</li>
-                <li>Matt Kuchar (23%)</li>
-                <li>Billy Horschel (30%)</li>
-              </ul>
+              <Raffle textColor={textColor} showRaffle={showRaffle} sweepstakesData={enhancedSweepstakeData} />
+              <Prizes textColor={textColor} sweepstakesData={enhancedSweepstakeData} />
+              {missedCuts}
+              <hr />
               
-              
-              <p className="w3-large"><b><i className="fa fa-asterisk fa-fw w3-margin-right w3-text-teal" />Masters Leaderboard</b></p>
-              <LiveLeaderboard liveScores={liveScores} />
+              <DreamTeam textColor={textColor} team={this.getDreamTeam()} />
+              <MostPicked textColor={textColor} sweepstakesData={enhancedSweepstakeData} groupsData={groupsData} /> 
+              <PreviousLeaderboards textColor={textColor} /> 
+              <LiveLeaderboard textColor={textColor} liveScores={liveScores} />
             </div>
           </div><br /><br />
         </div>

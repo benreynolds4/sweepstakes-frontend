@@ -21,9 +21,11 @@ const columns = [
 class LiveLeaderboard extends Component {
 
     render() {
-        let {liveScores} = this.props
+        let {liveScores, textColor} = this.props
         return (
             <React.Fragment>
+                <p className={`w3-large ${textColor}`}><b><i className={`fa fa-asterisk fa-fw w3-margin-right ${textColor}`} />Tournament Leaderboard</b></p>
+
                 <DataTable
                     keyField={liveScores}
                     columns={columns}

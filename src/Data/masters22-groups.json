@@ -1,0 +1,109 @@
+[
+    {
+        "group":"group_1",
+        "players": ["Jon Rahm"
+            ,"Justin Thomas"
+            ,"Collin Morikawa"
+            ,"Dustin Johnson"
+            ,"Jordan Spieth"
+            ,"Cameron Smith"
+            ,"Scottie Scheffler"
+            ,"Viktor Hovland"
+            ,"Brooks Koepka"
+            ,"Rory McIlroy"]
+    }, 
+    {
+        "group":"group_2",
+        "players": ["Patrick Cantlay",
+            "Xander Schauffele",
+            "Bryson Dechambeau",
+            "Will Zalatoris",
+            "Hideki Matsuyama",
+            "Sam Burns",
+            "Shane Lowry",
+            "Joaquin Niemann",
+            "Louis Oosthuizen",
+            "Adam Scott",
+            "Daniel Berger"]
+    }, 
+    {
+        "group":"group_3",
+        "players": ["Corey Conners",
+            "Sung-Jae Im",
+            "Tony Finau",
+            "Matthew Fitzpatrick",
+            "Tyrrell Hatton",
+            "Paul Casey",
+            "Tommy Fleetwood",
+            "Russell Henley",
+            "Patrick Reed",
+            "Tiger Woods"]
+    }, 
+    {
+        "group":"group_4",
+        "players": ["Bubba Watson",
+            "Seamus Power",
+            "Marc Leishman",
+            "Gary Woodland",
+            "Sergio Garcia",
+            "Justin Rose",
+            "Billy Horschel",
+            "Abraham Ancer",
+            "Luke List",
+            "Max Homa",
+            "Si Woo Kim",
+            "Kevin Kisner",
+            "Thomas Pieters",
+            "Webb Simpson",
+            "Tom Hoge",
+            "Brian Harman",
+            "Robert MacIntyre",
+            "Talor Gooch",
+            "Jason Kokrak",
+            "JJ Spaun"]
+    },
+    {
+        "group":"group_5",
+        "players": [
+            "Cameron Young",
+            "Cameron Champ",
+            "Lee Westwood",
+            "Kevin Na",
+            "Francesco Molinari",
+            "Christiaan Bezuidenhout",
+            "Harold Varner III",
+            "Matthew Wolff",
+            "Danny Willett",
+            "Lucas Herbert",
+            "Kyoung-Hoon Lee",
+            "Sepp Straka",
+            "Erik Van Rooyen",
+            "Mackenzie Hughes",
+            "Min Woo Lee",
+            "Cameron Davis",
+            "Zach Johnson",
+            "Garrick Higgo",
+            "Lucas Glover",
+            "Charl Schwartzel",
+            "Ryan Palmer",
+            "Padraig Harrington",
+            "Takumi Kanaya",
+            "Guido Migliozzi",
+            "Harry Higgs",
+            "Keita Nakajima",
+            "Stewart Cink",
+            "Hudson Swafford",
+            "Larry Mize",
+            "James Piot",
+            "Sandy Lyle",
+            "Laird Shepherd",
+            "Stewart Hagestad",
+            "Jose Maria Olazabal",
+            "Austin Greaser",
+            "Aaron Jarvis",
+            "Fred Couples",
+            "Vijay Singh",
+            "Mike Weir",
+            "Bernhard Langer"]
+    }
+]

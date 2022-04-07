@@ -1,54 +1,95 @@
-import React from 'react'
+import React, { useState }  from 'react'
 import DataTable from 'react-data-table-component';
+import Name from './Name'
+import PlayerName from './PlayerName'
 
+let date = new Date()
+let omitAtRisk = [0,1,2,3,4,6,7].includes(date.getDay());
 
-const columns = [
-    {
-        name: '',
-        selector: (row, index) => index + 1,
-        grow: 0,
+const customStyles = {
+    rows: {
+      style: {
+        minHeight: '72px', // override the row height
+      }
     },
-    {
-        name: 'Name',
-        selector: row => row.Initials,
-        sortable: true,
+    headCells: {
+      style: {
+        paddingLeft: '8px', // override the cell padding for head cells
+        paddingRight: '8px',
+      },
     },
-    {
-        name: 'Score',
-        selector:  row => row.visual_score,
-        sortable: true,
-        grow: 0,
+    cells: {
+      style: {
+        paddingLeft: '8px', // override the cell padding for data cells
+        paddingRight: '8px',
+        minWidth: '90px'
+      },
     },
-    {
-        name: 'Group 1',
-        selector: row => row.group_1 ,
-        sortable: true,
-    },
-    {
-        name: 'Group 2',
-        selector: row => row.group_2,
-        sortable: true,
-    },
-    {
-        name: 'Group 3',
-        selector: row => row.group_3,
-        sortable: true,
-    },
-    {
-        name: 'Group 4',
-        selector: row => row.group_4,
-        sortable: true,
-    },
-    {
-        name: 'Group 5',
-        selector: row => row.group_5,
-        sortable: true,
-    }
-  ];
+  };
+
+  function getColumns(liveScores) {
+    return [
+        {
+            name: '',
+            selector: (row, index) => row.id + 1,
+            grow: 0,
+        },
+        {
+            name: 'Name',
+            cell: row => <Name row={row} />,
+            sortable: true,
+        },
+        {
+            name: 'Score',
+            selector:  row => row.visual_score,
+            sortable: true,
+            grow: 0,
+        },
+        {
+            name: 'At Risk?',
+            cell: row => row.at_risk ,
+            sortable: true,
+            omit: omitAtRisk,
+        },
+        {
+            name: 'Group 1',
+            selector: row => <PlayerName player={row.group_1} liveScores={liveScores} />  ,
+            sortable: true,
+            wrap: true,
+        },
+        {
+            name: 'Group 2',
+            selector: row => <PlayerName player={row.group_2} liveScores={liveScores} /> ,
+            sortable: true,
+            wrap: true,
+        },
+        {
+            name: 'Group 3',
+            selector: row => <PlayerName player={row.group_3} liveScores={liveScores} /> ,
+            sortable: true,
+            wrap: true,
+        },
+        {
+            name: 'Group 4',
+            selector: row => <PlayerName player={row.group_4} liveScores={liveScores} /> ,
+            sortable: true,
+            wrap: true,
+        },
+        {
+            name: 'Group 5',
+            selector: row => <PlayerName player={row.group_5} liveScores={liveScores} /> ,
+            sortable: true,
+            wrap: true,
+        }
+      ];
+  }
 
 
   function Sweepstakes(props) {
-    const { enhancedSweepstakeData,  updatedScores } = props
+
+    const [nameFilter, setNameFilter] = useState('');
+
+    const { updatedScores, liveScores, textColor } = props
 
      const sortedData = props.enhancedSweepstakeData.sort(function(a, b){
          return  a.total_score - b.total_score
@@ -59,12 +100,26 @@ const columns = [
         ...item, 
     }))
 
+    let filteredMappedData = mappedData.filter(function (sweepstakeEntry) {
+        return sweepstakeEntry.Initials.toUpperCase().includes(nameFilter.toUpperCase());
+      }
+    );
+
     return (
         <React.Fragment>
-            <p><i className="fa fa-clock-o fa-fw w3-margin-right w3-large w3-text-teal" />Last Updated at {updatedScores.getHours()}:{updatedScores.getMinutes()}:{updatedScores.getSeconds()}</p>
+          <p><i className={`fa fa-clock-o fa-fw w3-margin-right w3-large ${textColor}`} />Last Updated at {updatedScores.getHours()}:{updatedScores.getMinutes()}:{updatedScores.getSeconds()}</p>
+          
+          <form>
+            <label>
+              <span className={`${textColor}`}>Filter by Name:</span>
+              <input type="text" value={nameFilter} name="nameFilter" onChange={e => setNameFilter(e.target.value)} />
+            </label>
+          </form>
+            
             <DataTable 
-                columns={columns}
-                data={mappedData}
+                columns={getColumns(liveScores)}
+                data={filteredMappedData}
+                customStyles={customStyles}
             />
         </React.Fragment>
     )

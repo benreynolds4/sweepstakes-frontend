@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.w3-display-container {
+  margin-top: 20px;
+}
+
+.center {
+  margin: auto;
+  display: block;
+}
+
+.fifty-percent {
+  width: 50%;
+}
+
+.fourty-percent {
+  width: 40%;
+}
